@@ -35,7 +35,7 @@ Para acompanhar o curso da forma mais fluída possível, é recomendado ter o b�
     - Star Wars
 - Tipos de aprendizado
 - Métodos de Regressão
-    - Regressão Linar Simples e Múltipla
+    - Regressão Linear Simples e Múltipla
     - Modelos de Árvore
 - Métodos de Classificação
     - Regressão logística
