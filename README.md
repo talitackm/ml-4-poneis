@@ -1,6 +1,6 @@
 # Machine Learning para Pôneis
 
-<img src="https://i.ibb.co/LZCTNDH/teomewhy-a-little-wizard-dressed-in-a-purple-cloak-is-trying-8bf7fcb1-6212-4736-9200-d1f9ea572d64-0.png" alt="Uma mago tentadno domar um pônei em um lindo vale ao por do sol">
+<img src="https://i.ibb.co/LZCTNDH/teomewhy-a-little-wizard-dressed-in-a-purple-cloak-is-trying-8bf7fcb1-6212-4736-9200-d1f9ea572d64-0.png" alt="Uma mago tentadno domar um pônei em um lindo vale ao por do sol" width=600>
 
 - [Sobre](#sobre)
 - [Pré-requisitos](#pré-requisitos)
