@@ -5,8 +5,6 @@
 - [Ementa](#ementa)
 - [Materiais para download](#materiais-para-download)
 
-<img src="https://i.ibb.co/LZCTNDH/teomewhy-a-little-wizard-dressed-in-a-purple-cloak-is-trying-8bf7fcb1-6212-4736-9200-d1f9ea572d64-0.png">
-
 ## Sobre
 
 Curso gratuito e ao vivo sobre Machine Learning e suas principais técnicas que acontecerá nos dias 13/05 a 17/05 às 9AM no canal [Téo Me Why](https://twitch.tv/teomewhy). Não é necessário inscrição, basta compararecer no horário. [Clique aqui](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NzltY24yM2piYjB1YXVvdnAxZ2RsNDUwZmNfMjAyNDA1MTNUMTIwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL) para adicionar o evento em sua agenda.
