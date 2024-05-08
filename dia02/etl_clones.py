@@ -18,5 +18,12 @@ df = (df[~df['General Jedi encarregado'].isna()]
 
 df['p2o_master_id'] = df['p2o_master_id'].astype(int)
 
+num_feat = ['Massa(em kilos)', 'Estatura(cm)', 'Tempo de existência(em meses)']
+
+for i in num_feat:
+    df[i] = df[i].apply(lambda x: x.replace(",", ".")).astype(float)
+
 # %%
-df.to_parquet("../data/dados_clone.parquet", index=False)
+df.to_parquet("../data/dados_clones.parquet", index=False)
+
+# %%
